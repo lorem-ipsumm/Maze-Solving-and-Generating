@@ -139,7 +139,7 @@ function addNeighbors(x,y){
 }
 
 
-//Recursive maze builder using Randomized Kruskal's Algorithm
+//Recursive maze builder using Randomized Prim's Algorithm
 //More here: https://en.wikipedia.org/wiki/Maze_generation_algorithm
 function create(){
   //Reset the available directions
