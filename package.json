@@ -1,0 +1,16 @@
+{
+  "name": "maze",
+  "version": "1.0.0",
+  "description": "Solves mazes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick M",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.2.27",
+    "png-js": "^0.1.1",
+    "stdio": "^0.2.7"
+  }
+}
