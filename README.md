@@ -17,8 +17,7 @@ Algorithms Page:
 https://en.wikipedia.org/wiki/Maze_generation_algorithm
 
 
-## How To Run:
----
+# How To Run:
 
 Clone the repository to the directory of your choice:
 ```bash
