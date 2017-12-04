@@ -15,3 +15,22 @@ For image manipulation I used [Jimp](https://github.com/oliver-moran/jimp), so I
 
 Algorithms Page:
 https://en.wikipedia.org/wiki/Maze_generation_algorithm
+
+
+## How To Run:
+---
+
+Clone the repository to the directory of your choice:
+```bash
+git clone https://github.com/SolarFloss/Maze-Solving-and-Generating.git
+```
+
+Then move into the root directory and run:
+``` bash
+npm generate.js
+```
+
+
+
+Feel free to create an issue if you run into any problems.
+
