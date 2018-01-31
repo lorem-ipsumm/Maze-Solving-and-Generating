@@ -13,6 +13,11 @@ After watching one numberphile video on maze solving I decided to jump in and ma
 For image manipulation I used [Jimp](https://github.com/oliver-moran/jimp), so I could create images and read individual pixels. Other than that the code was purely javascript(node to be specific)
 
 
+
+You can see it in action here:
+https://www.youtube.com/watch?v=lXRH_YLfaZ4&t=4s
+
+
 Algorithms Page:
 https://en.wikipedia.org/wiki/Maze_generation_algorithm
 
